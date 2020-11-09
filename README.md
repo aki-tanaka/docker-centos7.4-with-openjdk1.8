@@ -1,0 +1,1 @@
+# docker-centos7.4-with-openjdk1.8
